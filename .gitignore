@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+print("hello world")
 # C extensions
 *.so
 
