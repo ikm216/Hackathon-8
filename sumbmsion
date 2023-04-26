@@ -1,0 +1,23 @@
+S1n = input("Enter Student1 name: ")
+S1g = input("Enter Student1 grade: ")
+
+S2n = input("Enter Student2 name: ")
+S2g = input("Enter Student2 grade: ")
+
+S3n = input("Enter Student3 name: ")
+S3g = input("Enter Student3 grade: ")
+
+S4n = input("Enter Student4 name: ")
+S4g = input("Enter Student4 grade: ")
+
+S5n = input("Enter Student5 name: ")
+S5g = input("Enter Student5 grade: ")
+
+print(S1n + " grade is a "+ S1g)
+print("----------------------------------------")
+print(S2n + " grade is a "+ S2g)
+print("----------------------------------------")
+print(S3n + " grade is a "+ S3g)
+print("----------------------------------------")
+print(S4n + " grade is a "+ S4g)
+print("----------------------------------------")
